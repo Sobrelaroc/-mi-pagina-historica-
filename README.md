@@ -1,7 +1,6 @@
 # -mi-pagina-historica-
 mi-pagina-historica
 
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -61,7 +60,7 @@ mi-pagina-historica
         </div>
 
         <div class="history-section">
-            <h2>Crear y Compartir Historias</h2>
+            <h2>Crear y Compartir Historias</h2> https://whatsapp.com/channel/0029Vatm6RaK0IBfmUlgur0H
             <p>¿Conoces alguna historia inspiradora? Compártela aquí para motivar a otros a conocer el impacto que una persona puede tener en el mundo.</p>
         </div>
 
